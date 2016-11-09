@@ -104,6 +104,8 @@
   <string name="button_pos_title">Позиция кнопок</string>
   <string name="button_pos_top">Сверху/Слева</string>
   <string name="button_pos_bottom">Снизу/Справа</string>
+  <string name="bg_style_solid_light">Светлая</string>
+  <string name="bg_style_solid_dark">Тёмная</string>
   <string name="bg_style_transparent">Прозрачный</string>
   <string name="bg_style_title">Стиль фона</string>
   <string name="lock_to_app">Закрепить приложение</string>
@@ -133,4 +135,14 @@
   <string name="app_filter_running_title">Только запущенные</string>
   <string name="menu">Меню</string>
   <string name="menu_help">Меню</string>
+  <string name="enable_title">Включить</string>
+  <string name="adjust_handle_width">Ширина</string>
+  <string name="adjust_handle_position">Расположение</string>
+  <string name="package_top_task_title">Наверху</string>
+  <string name="package_left_task_title">Слева</string>
+  <string name="package_bottom_task_title">Низ</string>
+  <string name="package_right_task_title">Справа</string>
+  <string name="settings_button_text">Настройки</string>
+  <string name="wallpaper_button_text">Обои</string>
+  <string name="launcher_mode_title">Включить</string>
 </resources>
