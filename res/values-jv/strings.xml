@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Added by ZmR-->
+<!--
+  Copyright (C) 2013 The OmniROM Project
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 2 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="package_stop_task_title">Mandek</string>
+  <string name="package_inspect_item_title">Info aplikasi</string>
+  <string name="start_on_boot_title">Mulai pas murup</string>
+  <string name="start_on_boot_summary">Mulai lan aktifke pas hp murup</string>
+  <string name="icon_size_normal">Biasa</string>
+  <string name="icon_size_small">Cilik</string>
+  <string name="icon_size_large">Gedhi</string>
+  <string name="icon_size_title">Ukuran Ikon</string>
+  <string name="ok">Oke Bos</string>
+  <string name="cancel">Rak sido</string>
+  <string name="drag_handle_color_title">Werna</string>
+  <string name="drag_handle_color_dialog_title">Werna</string>
+  <string name="service_background_processes"><xliff:g id="memory">%1$s</xliff:g> bebas</string>
+  <string name="service_foreground_processes"><xliff:g id="memory"> %1$s </xliff:g> dianggo</string>
+  <string name="show_rambar_title">Duduhke penggunaan RAM</string>
+  <string name="show_rambar_summary">Nampilke jumlah RAM sing kanggo</string>
+  <string name="show_app_labels">Duduhke jeneng aplikasi</string>
+  <string name="show_app_labels_summary">Jeneng aplikasi bakal ditampilke karo ikon</string>
+  <string name="category_favorite_title">Favorit</string>
+  <string name="favorite_apps_config_title">Atur favorit</string>
+  <string name="favorite_apps_config_summary">Nentukke aplikasi sing ditampilke ning tampilan favorit</string>
+  <string name="favorite_apps_add_dialog_title">Tambah aplikasi</string>
+  <string name="favorite_add">Tambah\u2026</string>
+  <string name="location_left">Kiwo</string>
+  <string name="location_right">Tengen</string>
+  <string name="reset">Standar</string>
+  <string name="toggle_last_app">Aplikasi terakhir</string>
+  <string name="kill_all_apps_help">Pateni aplikasi</string>
+  <string name="kill_other_apps_help">Pateni aplikasi liane</string>
+  <string name="settings_help">Pengaturan</string>
+  <string name="kill_all_apps">Pateni kabeh</string>
+  <string name="kill_other_apps">Pateni lianne</string>
+  <string name="settings">Pengaturan</string>
+  <string name="buttons_title">Tombol</string>
+  <string name="auto_hide_handle">Otomatis-ndelik</string>
+  <string name="drag_handle_enable_title">Aktifke</string>
+  <string name="drag_handle_enable_summary">Rak aktif nek kowe mung nggo metode aktifasi liyo</string>
+  <string name="allapps_help">Laci aplikasi</string>
+  <string name="allapps">Aplikasi</string>
+  <string name="gravity_center">Tengah</string>
+  <string name="default_iconpack_title">Ikon standar</string>
+  <string name="icon_packs_title">Paket ikon</string>
+  <string name="no_iconpacks_summary">Rak ono paket ikon sing dipasang</string>
+  <string name="icon_pack_title">Paket ikon</string>
+  <string name="icon_pack_summary">Gunake paket ikon kanggo ikon aplikasi</string>
+  <string name="speed_switch_button_title">Tombol</string>
+  <string name="package_add_favorite_title">Tambahke ning favorit</string>
+  <string name="package_remove_favorite_title">Hapus seko favorit</string>
+  <string name="open_favorite_help">Buka/tutup tampilan favorit</string>
+  <string name="button_pos_title">Posisi tombol</string>
+  <string name="button_pos_top">Nduwur/kiwo</string>
+  <string name="button_pos_bottom">Ngisor/tengen</string>
+  <string name="bg_style_solid_light">Padang</string>
+  <string name="bg_style_solid_dark">Teteng</string>
+  <string name="bg_style_transparent">Transparan</string>
+  <string name="layout_style_title">Gaya</string>
+  <string name="layout_style_1">Horisontal</string>
+  <string name="layout_style_2">Vertikal</string>
+  <string name="no_limit">Rak terbatas</string>
+  <string name="one_hour">Sak jam</string>
+  <string name="three_hours">Telung jam</string>
+  <string name="six_hours">Nem jam</string>
+  <string name="twelve_hours">Rolas jam</string>
+  <string name="one_day">Sedino</string>
+  <string name="two_days">Rong dino</string>
+  <string name="one_week">Seminggu</string>
+  <string name="close">Tutup</string>
+  <string name="thumb_size_title">Ukuran thumbnail</string>
+  <string name="thumb_size_normal">Biasa</string>
+  <string name="thumb_size_small">Cilik</string>
+  <string name="thumb_size_medium">Gedhi</string>
+  <string name="app_filter_running_title">Mung sing isih mlaku</string>
+  <string name="menu">Menu</string>
+  <string name="menu_help">Menu</string>
+  <string name="enable_title">Aktifke</string>
+  <string name="adjust_handle_width">Ombo</string>
+  <string name="adjust_handle_position">Posisi</string>
+  <string name="package_top_task_title">Nduwur</string>
+  <string name="package_left_task_title">Kiwo</string>
+  <string name="package_bottom_task_title">Ngisor</string>
+  <string name="package_right_task_title">Tengen</string>
+  <string name="package_full_task_title">Ukuran kebak</string>
+  <string name="settings_button_text">Pengaturan</string>
+  <string name="wallpaper_button_text">Wallpaper</string>
+  <string name="welcome_cling_dismiss">Inggih</string>
+  <string name="launch_stats_delete_title">Resiki statistik</string>
+  <string name="launch_stats_low_title">Atur favorit</string>
+</resources>
